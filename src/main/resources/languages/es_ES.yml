@@ -1,0 +1,7 @@
+successfully-blacklisted: "&c¡Has añadido correctamente a {player} a la lista negra de uso de Pociones!"
+successfully-unblacklisted: "&a¡Has eliminado correctamente a {player} de la lista negra de uso de Pociones!"
+been-blacklisted: "&c¡Has sido añadido a la lista negra de uso de Pociones!"
+been-unblacklisted: "&a¡Has sido eliminado de la lista negra de uso de Pociones!"
+not-blacklisted: "&c¡{player} no está en la lista negra de uso de Pociones!"
+already-blacklisted: "&c¡{player} ya está en la lista negra de uso de Pociones!"
+you-are-blacklisted: "&4Estás en la lista negra de uso de Pociones!"

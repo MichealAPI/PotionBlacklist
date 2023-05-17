@@ -1,0 +1,7 @@
+name: PotionBlacklist
+main: it.mikeslab.Main
+version: 1.0
+api-version: 1.19
+author: MikesLab
+description: PotionBlacklist
+website: mikeslab.it

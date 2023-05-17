@@ -1,0 +1,10 @@
+it\mikeslab\util\language\RecognizedLanguages.class
+it\mikeslab\util\language\Language.class
+it\mikeslab\util\BlacklistUtil.class
+it\mikeslab\util\CacheHandler.class
+it\mikeslab\util\language\LangKey.class
+it\mikeslab\event\PlayerListener.class
+it\mikeslab\Main.class
+it\mikeslab\util\language\Translator.class
+it\mikeslab\Perms.class
+it\mikeslab\command\PotionCommand.class

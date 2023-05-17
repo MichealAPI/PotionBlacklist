@@ -1,0 +1,7 @@
+successfully-blacklisted: "&cYou've successfully blacklisted {player} from using Potions!"
+successfully-unblacklisted: "&aYou've successfully un-blacklisted {player} from using Potions!"
+been-blacklisted: "&cYou've been blacklisted from using Potions!"
+been-unblacklisted: "&aYou've been un-blacklisted from using Potions!"
+not-blacklisted: "&c{player} is not blacklisted from using Potions!"
+already-blacklisted: "&c{player} is already blacklisted from using Potions!"
+you-are-blacklisted: "&4You are blacklisted from using Potions!"
