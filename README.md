@@ -22,6 +22,8 @@ The **PotionBlacklist** plugin is designed for Minecraft versions **1.19 and abo
 
 # Usage
 
+* To use the plugin, make sure to place it inside the plugins folder of your Server.
+
 * To grant a player the ability to drink potions, use the command ```/potion unblacklist [player]```. Replace **[player]** with the desired player's username.
 
 * To prevent a player from consuming potions, use the command ```/potion blacklist [player]```. Again, replace **[player]** with the username of the player you wish to blacklist.
