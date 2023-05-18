@@ -18,8 +18,6 @@
 
 package it.mikeslab.util.language;
 
-import java.util.Arrays;
-
 /**
  * The enum Recognized languages.
  */
@@ -28,10 +26,6 @@ public enum RecognizedLanguages {
     it_IT,
     es_ES,
     fr_FR;
-
-    public static String[] getLanguages() {
-        return Arrays.stream(RecognizedLanguages.values()).map(Enum::name).toArray(String[]::new);
-    }
 
     /**
      * Is recognized language boolean.

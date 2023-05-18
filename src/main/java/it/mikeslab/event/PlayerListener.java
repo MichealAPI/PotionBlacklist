@@ -23,6 +23,7 @@ public class PlayerListener implements Listener {
                 player.sendMessage(Language.getString(LangKey.YOU_ARE_BLACKLISTED));
                 event.setCancelled(true);
             }
+
         }
     }
 
