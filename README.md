@@ -1,4 +1,4 @@
-[logo](https://i.imgur.com/vUS2JQM.png)
+![logo](https://i.imgur.com/vUS2JQM.png)
 
 
 [![CodeFactor](https://www.codefactor.io/repository/github/michealslab/potionblacklist/badge)](https://www.codefactor.io/repository/github/michealslab/potionblacklist) 
